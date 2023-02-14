@@ -2,6 +2,12 @@
 """
 Created on Thu Jul  6 11:57:17 2017
 
+Start the game: In the run time console type play()
+
+Positions: 0-8 
+
+Empty Cell: Defaults to 5
+
 @author: rsharan
 """
 board=[[5,5,5],[5,5,5],[5,5,5]]
