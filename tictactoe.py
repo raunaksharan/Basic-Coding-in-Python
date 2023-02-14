@@ -9,6 +9,9 @@ Positions: 0-8
 Empty Cell: Defaults to 5
 
 @author: rsharan
+
+This game has imo a very high strategic importance in coding as it's arguments chess
+
 """
 board=[[5,5,5],[5,5,5],[5,5,5]]
 
