@@ -2,4 +2,14 @@ Creating important coding artifacts to propel our stance. You would find associa
 
 We start off with a general idea to discuss the theme. Supportive narrative would carry us forward along the discovery and problem solving process. After that we identify the entities and constraints that make our case. Comments will guide us along the steps.
 
-Solutions will be evaluated for space and time complexty. Community effort to improve the status will drive the project along.
+Solutions will be evaluated for space and time complexty. Community effort to improve the status will drive the project along. Heres the outline - 
+
+1. Deployment/Transition Strategy
+2. Plans for Transitioning Systems
+  - Installation
+  - Integration
+  - Verification and Validation 
+  - Acceptance Test
+3. System Run-In
+4. Phasing-In/Phasing-Out
+
